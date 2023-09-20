@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kishore88888
-- 👀 I’m interested in ...App developer
+- 👀 I’m interested in ...App developing
 - 🌱 I’m currently learning ...Full stack development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...TCS
 - 📫 How to reach me ...
 
 <!---
