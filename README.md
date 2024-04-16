@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ...Full stack development
 - 💞️ I’m looking to collaborate on ...TCS
 - 📫 How to reach me ...@vickykishore179@gmail.com
+- Ready To Work
 
 
 <!---
